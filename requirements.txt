@@ -1,7 +1,7 @@
 astroid==1.4.4
 beautifulsoup4==4.4.1
 chardet==2.3.0
-Django==2.0.7
+Django==3.2.23
 django-ckeditor==5.7.1
 django-countries==5.5
 django-js-asset==1.2.2
@@ -11,7 +11,7 @@ geopy==1.20.0
 lazy-object-proxy==1.4.2
 pbr==1.8.0
 pexpect==4.0.1
-Pillow==5.2.0
+Pillow==10.0.0
 ptyprocess==0.6.0
 pytz==2019.3
 six==1.12.0
